@@ -1,0 +1,4 @@
+file =open("my_self.txt","a+")
+a=file.write("ashwini")
+print(a)
+file.close()
